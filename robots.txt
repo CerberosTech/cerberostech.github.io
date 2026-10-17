@@ -5,3 +5,4 @@ Sitemap: https://cerberostech.github.io/deadorsupported/sitemap.xml
 Sitemap: https://cerberostech.github.io/isde-checker/sitemap.xml
 Sitemap: https://cerberostech.github.io/stroomprijs/sitemap.xml
 Sitemap: https://cerberostech.github.io/belastingcalculator/sitemap.xml
+Sitemap: https://cerberostech.github.io/woningmarkt/sitemap.xml
